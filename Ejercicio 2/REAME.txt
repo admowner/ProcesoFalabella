@@ -1,0 +1,3 @@
+Por tiempo no alcance a crear los features para llamarlos desde la testsuite, lo demas esta automatizado de manera no grabada.
+
+Saludos cordiales
